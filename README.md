@@ -14,6 +14,12 @@ An end-to-end data science project focused on analyzing retail customer behavior
 - Develop business recommendations for customer retention.
 - Build an interactive Streamlit application.
 
+## Live Application
+
+Try the deployed Customer Intelligence Platform:
+
+[Open the Streamlit App](https://customer-intelligence-platform-mdbyhcvlfehgbihuxtru9c.streamlit.app/)
+
 ## Technologies Used
 
 - Python
